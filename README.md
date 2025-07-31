@@ -2,7 +2,7 @@
 
 A modern, mobile-first web application that provides customer portal and staff dashboard interfaces for the AccessWash digital water utility platform.
 
-## What This Frontend Provides
+## Features
 
 ### **Customer Portal** 
 - Customer registration and profile management
@@ -56,6 +56,7 @@ npm run dev
 
 # Build for production
 npm run build
+```
 
 ---
 
